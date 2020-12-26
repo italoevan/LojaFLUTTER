@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607263528405",
+    "firebase_url": "https://loja-flutter-fc014.firebaseio.com",
+    "project_id": "loja-flutter-fc014",
+    "storage_bucket": "loja-flutter-fc014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607263528405:android:bad0106ea89873aa8d995c",
+        "android_client_info": {
+          "package_name": "com.evinc.loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607263528405-tbhbidnj8vjol2e272sfaqc0gi4pc1a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJZUht9idpO5-cIyx--4HoGJhZQTikzBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607263528405-tbhbidnj8vjol2e272sfaqc0gi4pc1a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
